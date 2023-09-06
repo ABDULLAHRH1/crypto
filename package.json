@@ -2,7 +2,7 @@
   "name": "crypto-app-react",
   "version": "0.1.0",
   "homepage": "https://ABDULLAHRH1.github.io/crypto",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
