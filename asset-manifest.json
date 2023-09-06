@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ABDULLAHRH1.github.io/crypto/static/css/main.cc4b3944.css",
+    "main.js": "/ABDULLAHRH1.github.io/crypto/static/js/main.cd13b1cc.js",
+    "index.html": "/ABDULLAHRH1.github.io/crypto/index.html",
+    "main.cc4b3944.css.map": "/ABDULLAHRH1.github.io/crypto/static/css/main.cc4b3944.css.map",
+    "main.cd13b1cc.js.map": "/ABDULLAHRH1.github.io/crypto/static/js/main.cd13b1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.cd13b1cc.js"
+  ]
+}
