@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/web.png" alt="Project Screenshot" />
+  <img src="web7.png" alt="Project Screenshot" />
 </p>
 
 <h1 align="center">🚀 My Super Cool Website 🚀</h1>
