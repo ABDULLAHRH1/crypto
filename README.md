@@ -1,22 +1,20 @@
+<!-- Project Screenshot -->
 <p align="center">
-  <img src="web7.png" alt="Project Screenshot" />
+  <img src="web7.png" alt="Project Screenshot" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 </p>
 
-<h1 align="center">🚀 My Super Cool Website 🚀</h1>
+<!-- Project Title -->
+<h1 align="center" style="font-size: 48px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 My Super Cool Website 🚀</h1>
 
-<p align="center">
-  A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
+<!-- Project Description -->
+<p align="center" style="font-size: 24px; color: #666; font-family: 'Arial', sans-serif;">Experience a stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.</p>
+
+<!-- Key Features -->
+<p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
+  ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Clean Design</strong> |
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Responsive Layout</strong> |
-  <img src="https://img.icons8.com/color/80/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Smooth Animations</strong>
-</p>
-
+<!-- Technologies Used -->
 <p align="center">
   <img src="https://img.icons8.com/color/80/000000/html-5--v1.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS3" />
