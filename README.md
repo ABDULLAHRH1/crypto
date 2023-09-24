@@ -16,14 +16,15 @@
 
 <!-- Technologies Used -->
 <p align="center">
-  <img src="https://img.icons8.com/color/80/000000/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/80/000000/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/80/000000/html-5--v1.png" alt="HTML5" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS3" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/80/000000/javascript--v1.png" alt="JavaScript" style="margin: 0 10px;" />
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" style="margin: 0 10px;" />
   </a>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 0 10px;" />
 </p>
+
 
 ## 🚀 Get Started
 
